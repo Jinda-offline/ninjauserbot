@@ -6,3 +6,4 @@ I am master in bots making
 2. .restart
 3. .fun
 4. .tool
+/https.github.com/ninja-robot
